@@ -1,10 +1,11 @@
-  <!-- header section strats -->
+<div class="top_container">
+ <!-- header section strats -->
   <header class="header_section">
       <div class="container">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="index.html">
             <span>
-              Fanadesh
+              Uloomy
             </span>
           </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -39,4 +40,32 @@
         </nav>
       </div>
     </header>
+    <section class="hero_section ">
+        <div class="hero-container container">
+          <div class="hero_detail-box">
+            <h1>
+              Best way
+              to fund
+              your study
+              abroad
+            </h1>
+            <p>
+              ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+              magna aliqua. Ut enim ad minim veniam
+            </p>
+            <div class="hero_btn-continer">
+              <a href="" class="call_to-btn btn_white-border">
+                Read More
+              </a>
+            </div>
+          </div>
+          <div class="hero_img-container">
+            <div>
+              <img src="{{ asset('images/site/hero.png') }}" alt="" class="img-fluid">
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    <!-- end header section -->
   

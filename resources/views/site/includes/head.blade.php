@@ -14,15 +14,15 @@
 
 
   <!-- bootstrap core css -->
-  <link rel="stylesheet" type="text/css" href="css/site/bootstrap.css" />
+  <link rel="stylesheet" type="text/css" href="{{ asset('css/site/bootstrap.css') }}" />
   <!-- fonts style -->
   <link href="https://fonts.googleapis.com/css?family=Poppins:400,700|Raleway:400,600&display=swap" rel="stylesheet">
   <!-- font wesome stylesheet -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <!-- Custom styles for this template -->
-  <link href="css/site/style.css" rel="stylesheet" />
+  <link href="{{ asset('css/site/style.css') }}" rel="stylesheet" />
   <!-- responsive style -->
-  <link href="css/site/responsive.css" rel="stylesheet" />
+  <link href="{{ asset('css/site/responsive.css') }}" rel="stylesheet" />
 
 
 </head>
