@@ -52,7 +52,7 @@
             
           </div>
           <div class="hero_img-container">
-            <div>
+            <div class="d-flex">
               <div class="small-box">
 
               </div>
