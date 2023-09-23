@@ -44,24 +44,16 @@
         <div class="hero-container container">
           <div class="hero_detail-box">
             <h1>
-              Best way
-              to fund
-              your study
-              abroad
+              Excel in your studies with one-on-one private online tutoring.
             </h1>
             <p>
-              ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua. Ut enim ad minim veniam
+              Enhance your Kid's Quran learning journey with personalized online tutoring led by experienced instructors.
             </p>
-            <div class="hero_btn-continer">
-              <a href="" class="call_to-btn btn_white-border">
-                Read More
-              </a>
-            </div>
+            
           </div>
           <div class="hero_img-container">
             <div>
-              <img src="{{ asset('images/site/hero.png') }}" alt="" class="img-fluid">
+              <img src="{{ asset('images/site/quran-learning_50.jpg') }}" alt="" class="img-fluid">
             </div>
           </div>
         </div>

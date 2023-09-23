@@ -14,6 +14,8 @@ git clone https://github.com/synkcode/uloomy.git
 
 Get the .env file from [.env.example](https://github.com/platformsh-templates/laravel/blob/master/.env.example) and configure database settings
 
+Add ASSET_URL=assets to the .env file
+
 in root folder run composer
 
 ```
