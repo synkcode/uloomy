@@ -20,7 +20,7 @@
   <!-- font wesome stylesheet -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <!-- Custom styles for this template -->
-  <link href="{{ asset('css/site/style.css') }}?v=0.0.1" rel="stylesheet" />
+  <link href="{{ asset('css/site/style.css') }}?v=0.0.2" rel="stylesheet" />
   <!-- responsive style -->
   <link href="{{ asset('css/site/responsive.css') }}" rel="stylesheet" />
 

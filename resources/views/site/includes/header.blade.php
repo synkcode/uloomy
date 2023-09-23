@@ -53,7 +53,13 @@
           </div>
           <div class="hero_img-container">
             <div>
-              <img src="{{ asset('images/site/quran-learning_50.jpg') }}" alt="" class="img-fluid">
+              <div class="small-box">
+
+              </div>
+
+              <div class="small-circle">
+
+              </div>
             </div>
           </div>
         </div>
