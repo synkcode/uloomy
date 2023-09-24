@@ -15,16 +15,15 @@
               <div class="col-md-6">
                 <div class="about_detail-box">
                   <h3>
-                    About our School
+                    About Us
                   </h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                  </p>
+                    uloomy is a completely free tool that teachers can use to keep track of how well their students are doing.
+                  
+                       </p>
                   <div class="">
-                    <a href="" class="call_to-btn btn_white-border">
-                      Read More
+                    <a href="https://github.com/synkcode/uloomy" target="_blank" class="call_to-btn btn_white-border">
+                      Download
                     </a>
                   </div>
                 </div>
@@ -43,18 +42,12 @@
               <div class="col-md-6">
                 <div class="admission_detail-box">
                   <h3>
-                    Admission open
+                    Manage Student Progress
                   </h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+                    Keep an eye on how your students are performing.
                   </p>
-                  <div class="">
-                    <a href="" class="call_to-btn btn_white-border">
-                      Read More
-                    </a>
-                  </div>
+                 
                 </div>
               </div>
               <div class="col-md-6">
@@ -82,18 +75,12 @@
               <div class="col-md-6">
                 <div class="why_detail-box">
                   <h3>
-                    Why learn on Uloomy
+                    Transparent for parents
                   </h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+                    View your kid's progress and ask for clarification on the platform
                   </p>
-                  <div class="">
-                    <a href="" class="call_to-btn btn_white-border">
-                      Read More
-                    </a>
-                  </div>
+                 
                 </div>
               </div>
             </div>
@@ -110,18 +97,12 @@
               <div class="col-md-6">
                 <div class="determine_detail-box">
                   <h3>
-                    Datermine the right for you
+                    Pay online without hassle
                   </h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+                    Your money paid directly to the tutor via easy to use payment channels
                   </p>
-                  <div class="">
-                    <a href="" class="call_to-btn btn_white-border">
-                      Read More
-                    </a>
-                  </div>
+                 
                 </div>
               </div>
               <div class="col-md-6">
@@ -137,139 +118,7 @@
         <!-- end determine section -->
     
       </div>
-
-
-       <!-- client section -->
-  <section class="client_section layout_padding">
-    <h2 class="">
-      Testimonial
-    </h2>
-    <div class="container">
-        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-            <ol class="carousel-indicators">
-              <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-              <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-              <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-            </ol>
-            <div class="carousel-inner">
-              <div class="carousel-item active">
-                  <div class="row">
-                      <div class="col-md-3">
-                        <div class="client_img-box">
-                            <img src="{{ asset('images/site/client.png') }}" alt="">
-                        </div>
-                      </div>
-                      <div class="col-md-9">
-                        <div class="client_detail-box">
-                          <h5>
-                            Alex Du
-                          </h5>
-                          <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-                            ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-              </div>
-              <div class="carousel-item">
-                  <div class="row">
-                      <div class="col-md-3">
-                        <div class="client_img-box">
-                            <img src="{{ asset('images/site/client.png') }}" alt="">
-                        </div>
-                      </div>
-                      <div class="col-md-9">
-                        <div class="client_detail-box">
-                          <h5>
-                            Alex Du
-                          </h5>
-                          <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-                            ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-              </div>
-              <div class="carousel-item">
-                  <div class="row">
-                      <div class="col-md-3">
-                        <div class="client_img-box">
-                          <img src="{{ asset('images/site/client.png') }}" alt="">
-                        </div>
-                      </div>
-                      <div class="col-md-9">
-                        <div class="client_detail-box">
-                          <h5>
-                            Alex Du
-                          </h5>
-                          <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-                            ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-              </div>
-            </div>
-          </div>
-     
-    </div>
-  </section>
-   <!-- end client section -->
-
-    <!-- contact section -->
-
-    <section class="contact_section ">
-
-        <div class="container">
-         
-          <div class="row">
-            <div class="col-md-6">
-              <div class="d-flex justify-content-center d-md-block">
-                <h2>
-                  Contact Us
-                </h2>
-              </div>
-              <form action="">
-                <div class="contact_form-container">
-                  <div>
-                    <div>
-                      <input type="text" placeholder="Name">
-                    </div>
-                    <div>
-                      <input type="email" placeholder="Email">
-                    </div>
-                    <div>
-                      <input type="text" placeholder="Phone Number">
-                    </div>
-                    <div class="mt-5">
-                      <input type="text" placeholder="Message">
-                    </div>
-                    <div class="mt-5">
-                      <button type="submit">
-                        send
-                      </button>
-                    </div>
-                  </div>
-    
-                </div>
-    
-              </form>
-            </div>
-            <div class="col-md-6">
-              <div class="contact_img-box">
-                <img src="{{ asset('images/site/students.jpg') }}" alt="">
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <!-- end contact section -->
+ 
 
       <section class="info_section layout_padding-top">
         <div class="info_logo-box">
@@ -284,53 +133,24 @@
                     About Us                                                                             
                 </h5>
                <p>
-                  dolor sit amet, consectetur magna aliqua. Ut enim ad minim veniam, quisdotempor incididunt r 
+                uloomy is open source platform that is free forever for everyone.
                </p>
               </div>
               <div class="col-md-3">
-                <h5>
-                    Useful Link 
-                </h5>
-                <ul>
-                  <li>
-                    <a href="">
-                        Video games
-                    </a>
-                  </li>
-                  <li>
-                   <a href="">
-                      Remote control
-                   </a>
-                  </li>
-                  <li>
-                    <a href="">
-                        3d controller
-                    </a>
-                  </li>
-                </ul>
-              </div>
+                </div>
               <div class="col-md-3">
                 <h5>
                     Contact Us
                 </h5>
                 <p>
-                    dolor sit amet, consectetur magna aliqua. quisdotempor incididunt ut e 
+                  hello@uloomy.com
                 </p>
               </div>
               <div class="col-md-3">
            
                 <div class="subscribe_container">
-                  <h5>
-                      Newsletter
-                  </h5>
-                  <div class="form_container">
-                    <form action="">
-                      <input type="email" placeholder="Enter your email">
-                      <button type="submit">
-                        Subscribe
-                      </button>
-                    </form>
-                  </div>
+                   
+                 
                 </div>
                 
               </div>
@@ -339,21 +159,7 @@
           <div class="container">
               <div class="social_container">
                  
-                  <div class="social-box">
-                    <a href="">
-                      <img src="{{ asset('images/site/fb.png') }}" alt="">
-                    </a>
-      
-                    <a href="">
-                      <img src="{{ asset('images/site/twitter.png') }}" alt="">
-                    </a>
-                    <a href="">
-                      <img src="{{ asset('images/linkedin.png') }}" alt="">
-                    </a>
-                    <a href="">
-                      <img src="{{ asset('images/instagram.png') }}" alt="">
-                    </a>
-                  </div>
+                 
                 </div>
           </div>
         </section>
